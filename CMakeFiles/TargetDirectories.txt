@@ -1,0 +1,3 @@
+/home/precious_musole/Documents/solar-simulator/build/CMakeFiles/SolarSystemSim.dir
+/home/precious_musole/Documents/solar-simulator/build/CMakeFiles/edit_cache.dir
+/home/precious_musole/Documents/solar-simulator/build/CMakeFiles/rebuild_cache.dir
