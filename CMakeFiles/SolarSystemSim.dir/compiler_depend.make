@@ -383,6 +383,115 @@ CMakeFiles/SolarSystemSim.dir/main.cpp.o: /home/precious_musole/Documents/solar-
   /usr/lib/gcc/x86_64-pc-linux-gnu/16/include/stddef.h \
   /usr/lib/gcc/x86_64-pc-linux-gnu/16/include/stdint.h
 
+SolarSystemSim: /usr/lib/Scrt1.o \
+  /usr/lib/crti.o \
+  /usr/lib/crtn.o \
+  /usr/lib/libc.so \
+  /usr/lib/libgcc_s.so.1 \
+  /usr/lib/libm.so \
+  /usr/lib/libstdc++.so \
+  /usr/lib/gcc/x86_64-pc-linux-gnu/16/crtbeginS.o \
+  /usr/lib/gcc/x86_64-pc-linux-gnu/16/crtendS.o \
+  /usr/lib/gcc/x86_64-pc-linux-gnu/16/libatomic.a \
+  /usr/lib/gcc/x86_64-pc-linux-gnu/16/libatomic_asneeded.so \
+  /usr/lib/gcc/x86_64-pc-linux-gnu/16/libgcc.a \
+  /usr/lib/gcc/x86_64-pc-linux-gnu/16/libgcc_s.so \
+  /usr/lib/ld-linux-x86-64.so.2 \
+  /usr/lib/libX11.so.6 \
+  /usr/lib/libXau.so.6 \
+  /usr/lib/libXcursor.so.1 \
+  /usr/lib/libXdmcp.so.6 \
+  /usr/lib/libXext.so.6 \
+  /usr/lib/libXfixes.so.3 \
+  /usr/lib/libXi.so.6 \
+  /usr/lib/libXrandr.so.2 \
+  /usr/lib/libXrender.so.1 \
+  /usr/lib/libbrotlicommon.so.1 \
+  /usr/lib/libbrotlidec.so.1 \
+  /usr/lib/libbz2.so.1.0 \
+  /usr/lib/libc.so.6 \
+  /usr/lib/libc_nonshared.a \
+  /usr/lib/libfreetype.so.6 \
+  /usr/lib/libglib-2.0.so.0 \
+  /usr/lib/libgraphite2.so.3 \
+  /usr/lib/libharfbuzz.so.0 \
+  /usr/lib/libm.so.6 \
+  /usr/lib/libmvec.so.1 \
+  /usr/lib/libpcre2-8.so.0 \
+  /usr/lib/libpng16.so.16 \
+  /usr/lib/libsfml-graphics.so.3.1.0 \
+  /usr/lib/libsfml-system.so.3.1.0 \
+  /usr/lib/libsfml-window.so.3.1.0 \
+  /usr/lib/libudev.so.1 \
+  /usr/lib/libxcb.so.1 \
+  /usr/lib/libz.so.1 \
+  /usr/lib32/libX11.so.6 \
+  /usr/lib32/libXau.so.6 \
+  /usr/lib32/libXdmcp.so.6 \
+  /usr/lib32/libXext.so.6 \
+  /usr/lib32/libXfixes.so.3 \
+  /usr/lib32/libbrotlicommon.so.1 \
+  /usr/lib32/libbrotlidec.so.1 \
+  /usr/lib32/libbz2.so.1.0 \
+  /usr/lib32/libglib-2.0.so.0 \
+  /usr/lib32/libpcre2-8.so.0 \
+  /usr/lib32/libudev.so.1 \
+  /usr/lib32/libxcb.so.1 \
+  /usr/lib32/libz.so.1 \
+  CMakeFiles/SolarSystemSim.dir/main.cpp.o
+
+
+CMakeFiles/SolarSystemSim.dir/main.cpp.o:
+
+/usr/lib32/libxcb.so.1:
+
+/usr/lib32/libXfixes.so.3:
+
+/usr/lib32/libXext.so.6:
+
+/usr/lib32/libz.so.1:
+
+/usr/lib/libudev.so.1:
+
+/usr/lib/libpng16.so.16:
+
+/usr/lib/libm.so.6:
+
+/usr/lib/libharfbuzz.so.0:
+
+/usr/lib/libc_nonshared.a:
+
+/usr/lib/libbrotlidec.so.1:
+
+/usr/lib/libXrender.so.1:
+
+/usr/lib/libmvec.so.1:
+
+/usr/lib/libXrandr.so.2:
+
+/usr/lib/libXfixes.so.3:
+
+/usr/lib/libXext.so.6:
+
+/usr/lib/libXdmcp.so.6:
+
+/usr/lib/libXcursor.so.1:
+
+/usr/lib/libXau.so.6:
+
+/usr/lib/libX11.so.6:
+
+/usr/lib/ld-linux-x86-64.so.2:
+
+/usr/lib/gcc/x86_64-pc-linux-gnu/16/libgcc.a:
+
+/usr/lib/gcc/x86_64-pc-linux-gnu/16/libatomic.a:
+
+/usr/lib/libm.so:
+
+/usr/lib/libgcc_s.so.1:
+
+/usr/lib/crti.o:
 
 /usr/lib/gcc/x86_64-pc-linux-gnu/16/include/stdint.h:
 
@@ -394,9 +503,13 @@ CMakeFiles/SolarSystemSim.dir/main.cpp.o: /home/precious_musole/Documents/solar-
 
 /usr/include/stdlib.h:
 
+/usr/lib/libstdc++.so:
+
 /usr/include/locale.h:
 
 /usr/include/linux/stddef.h:
+
+/usr/lib/gcc/x86_64-pc-linux-gnu/16/libatomic_asneeded.so:
 
 /usr/include/linux/errno.h:
 
@@ -426,17 +539,23 @@ CMakeFiles/SolarSystemSim.dir/main.cpp.o: /home/precious_musole/Documents/solar-
 
 /usr/include/c++/16/vector:
 
+/usr/lib/libglib-2.0.so.0:
+
 /usr/include/c++/16/variant:
 
 /usr/include/c++/16/typeinfo:
 
 /usr/include/c++/16/type_traits:
 
+/usr/lib/libc.so.6:
+
 /usr/include/c++/16/tuple:
 
 /usr/include/c++/16/tr1/special_function_util.h:
 
 /usr/include/c++/16/tr1/poly_laguerre.tcc:
+
+/usr/lib/crtn.o:
 
 /usr/include/c++/16/tr1/legendre_function.tcc:
 
@@ -451,6 +570,8 @@ CMakeFiles/SolarSystemSim.dir/main.cpp.o: /home/precious_musole/Documents/solar-
 /usr/include/c++/16/streambuf:
 
 /usr/include/c++/16/sstream:
+
+/usr/lib/libXi.so.6:
 
 /usr/include/c++/16/ratio:
 
@@ -520,6 +641,8 @@ CMakeFiles/SolarSystemSim.dir/main.cpp.o: /home/precious_musole/Documents/solar-
 
 /usr/include/bits/select.h:
 
+/usr/lib/libc.so:
+
 /usr/include/bits/pthreadtypes.h:
 
 /usr/include/SFML/Window/Vulkan.hpp:
@@ -532,6 +655,8 @@ CMakeFiles/SolarSystemSim.dir/main.cpp.o: /home/precious_musole/Documents/solar-
 
 /usr/include/bits/long-double.h:
 
+/usr/lib/libgraphite2.so.3:
+
 /usr/include/c++/16/tr1/bessel_function.tcc:
 
 /usr/include/bits/libm-simd-decl-stubs.h:
@@ -543,6 +668,10 @@ CMakeFiles/SolarSystemSim.dir/main.cpp.o: /home/precious_musole/Documents/solar-
 /usr/include/bits/errno.h:
 
 /usr/include/bits/timex.h:
+
+/usr/lib32/libglib-2.0.so.0:
+
+/usr/lib32/libbrotlidec.so.1:
 
 /usr/include/bits/byteswap.h:
 
@@ -604,9 +733,17 @@ CMakeFiles/SolarSystemSim.dir/main.cpp.o: /home/precious_musole/Documents/solar-
 
 /usr/include/bits/fp-fast.h:
 
+/usr/lib/libsfml-window.so.3.1.0:
+
+/usr/lib/libpcre2-8.so.0:
+
 /usr/include/SFML/Graphics/StencilMode.hpp:
 
 /usr/include/c++/16/bits/basic_string.tcc:
+
+/usr/lib/libsfml-system.so.3.1.0:
+
+/usr/lib/gcc/x86_64-pc-linux-gnu/16/libgcc_s.so:
 
 /usr/include/c++/16/tr1/modified_bessel_func.tcc:
 
@@ -618,6 +755,8 @@ CMakeFiles/SolarSystemSim.dir/main.cpp.o: /home/precious_musole/Documents/solar-
 
 /usr/include/SFML/Window/Mouse.hpp:
 
+/usr/lib32/libX11.so.6:
+
 /usr/include/SFML/System/Time.inl:
 
 /usr/include/asm/posix_types_64.h:
@@ -625,6 +764,8 @@ CMakeFiles/SolarSystemSim.dir/main.cpp.o: /home/precious_musole/Documents/solar-
 /usr/include/SFML/Window/Context.hpp:
 
 /usr/include/bits/iscanonical.h:
+
+/usr/lib/libfreetype.so.6:
 
 /usr/include/c++/16/bits/ios_base.h:
 
@@ -667,6 +808,8 @@ CMakeFiles/SolarSystemSim.dir/main.cpp.o: /home/precious_musole/Documents/solar-
 /usr/include/SFML/Config.hpp:
 
 /usr/include/SFML/Graphics/Rect.inl:
+
+/usr/lib/libbrotlicommon.so.1:
 
 /usr/include/wchar.h:
 
@@ -738,6 +881,10 @@ CMakeFiles/SolarSystemSim.dir/main.cpp.o: /home/precious_musole/Documents/solar-
 
 /usr/include/asm/errno.h:
 
+/usr/lib/libsfml-graphics.so.3.1.0:
+
+/usr/lib/gcc/x86_64-pc-linux-gnu/16/crtendS.o:
+
 /usr/include/bits/stdio_lim.h:
 
 /usr/include/asm/posix_types.h:
@@ -745,6 +892,8 @@ CMakeFiles/SolarSystemSim.dir/main.cpp.o: /home/precious_musole/Documents/solar-
 /usr/include/bits/time.h:
 
 /usr/include/bits/types/__mbstate_t.h:
+
+/usr/lib/Scrt1.o:
 
 /usr/include/SFML/Graphics/Drawable.hpp:
 
@@ -759,6 +908,8 @@ CMakeFiles/SolarSystemSim.dir/main.cpp.o: /home/precious_musole/Documents/solar-
 /usr/include/c++/16/bits/stdexcept_throwfwd.h:
 
 /usr/include/c++/16/bits/invoke.h:
+
+/usr/lib32/libXdmcp.so.6:
 
 /usr/include/SFML/System/MemoryInputStream.hpp:
 
@@ -784,6 +935,8 @@ CMakeFiles/SolarSystemSim.dir/main.cpp.o: /home/precious_musole/Documents/solar-
 
 /usr/include/c++/16/bits/localefwd.h:
 
+/usr/lib/gcc/x86_64-pc-linux-gnu/16/crtbeginS.o:
+
 /usr/include/c++/16/bits/ostream.tcc:
 
 /usr/include/c++/16/bits/shared_ptr_atomic.h:
@@ -791,6 +944,8 @@ CMakeFiles/SolarSystemSim.dir/main.cpp.o: /home/precious_musole/Documents/solar-
 /usr/include/bits/pthread_stack_min-dynamic.h:
 
 /usr/include/SFML/Graphics/Glsl.hpp:
+
+/usr/lib/libxcb.so.1:
 
 /usr/include/bits/endian.h:
 
@@ -807,6 +962,8 @@ CMakeFiles/SolarSystemSim.dir/main.cpp.o: /home/precious_musole/Documents/solar-
 /usr/include/bits/wordsize.h:
 
 /usr/include/SFML/Graphics/VertexBuffer.hpp:
+
+/usr/lib32/libXau.so.6:
 
 /usr/include/c++/16/bits/range_access.h:
 
@@ -829,6 +986,8 @@ CMakeFiles/SolarSystemSim.dir/main.cpp.o: /home/precious_musole/Documents/solar-
 /usr/include/bits/types/struct_FILE.h:
 
 /usr/include/c++/16/bits/stdexcept_except.h:
+
+/usr/lib32/libbz2.so.1.0:
 
 /usr/include/c++/16/tr1/riemann_zeta.tcc:
 
@@ -879,6 +1038,8 @@ CMakeFiles/SolarSystemSim.dir/main.cpp.o: /home/precious_musole/Documents/solar-
 /usr/include/SFML/Window.hpp:
 
 /usr/include/SFML/System/FileInputStream.hpp:
+
+/usr/lib32/libbrotlicommon.so.1:
 
 /usr/include/asm-generic/int-ll64.h:
 
@@ -970,11 +1131,15 @@ CMakeFiles/SolarSystemSim.dir/main.cpp.o: /home/precious_musole/Documents/solar-
 
 /usr/include/bits/types/timer_t.h:
 
+/usr/lib32/libudev.so.1:
+
 /usr/include/c++/16/bits/ostream_insert.h:
 
 /usr/include/c++/16/new:
 
 /usr/include/bits/types/wint_t.h:
+
+/usr/lib/libz.so.1:
 
 /usr/include/bits/uintn-identity.h:
 
@@ -1086,9 +1251,13 @@ CMakeFiles/SolarSystemSim.dir/main.cpp.o: /home/precious_musole/Documents/solar-
 
 /usr/include/c++/16/bits/new_throw.h:
 
+/usr/lib/libbz2.so.1.0:
+
 /usr/include/SFML/System/InputStream.hpp:
 
 /usr/include/c++/16/bits/locale_conv.h:
+
+/usr/lib32/libpcre2-8.so.0:
 
 /usr/include/c++/16/bits/locale_facets.tcc:
 
